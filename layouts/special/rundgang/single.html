@@ -1,0 +1,39 @@
+{{ define "main" }}
+
+<div>
+    <h1>Hinweis</h1>
+    <p>{{ .Param "hint" }}</p>
+</div>
+
+<h1>{{ .Title }}</h1>
+
+
+{{range .Param "gallery_entry"}}
+    {{ $test := print (.bild) }}
+    {{ $title := cond (ne .title "") .title " " }}
+    {{ $desc := cond (ne (trim .description " ") "") (trim .description " ") " " }}
+        {{if (resources.GetMatch $test)}}
+            {{ $originalimg := resources.GetMatch $test }}
+            {{$.Scratch.Set "image" ($originalimg.Fill "120x120 Center") }}
+            {{ $thumbnail := $.Scratch.Get "image" }}
+            <a class="gallery" href="{{$test}}" data-toggle="lightbox" data-gallery="rundgang" data-title="{{ $title }}" data-footer="{{ $desc }}">
+                <img src='{{ $thumbnail.RelPermalink }}'>
+            </a>
+        {{ else }}
+        <script>console.log({{ resources.GetMatch $test }})</script>
+        <script>console.log({{ $test }})</script>
+        {{ end }}
+{{ end }}
+
+    <!-- Bootstrap Lightbox by ahsleydw MIT License-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css">
+    <link rel="stylesheet" href="/css/modal.css">
+	<!-- ** Lightbox Script ** -->
+	<script>
+		$(document).on("click", '[data-toggle="lightbox"]', function(event) {
+		  event.preventDefault();
+		  $(this).ekkoLightbox();
+		});
+    </script>
+{{ end }}

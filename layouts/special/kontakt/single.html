@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+<div class="row">
+    <div class="col-md-4">
+        <div class="content">{{ .Content }}</div>
+        <br>
+    </div>
+    <div class="col-md-8">
+        <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2545.220128902948!2d7.614050616058021!3d50.36244970158256!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47be7c91674e02ab%3A0xbf6cff7dcfe4fd14!2sVor%20dem%20Sauerwassertor%207%2C%2056077%20Koblenz!5e0!3m2!1sen!2sde!4v1589275130800!5m2!1sen!2sde"
+            width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false"
+            tabindex="0"></iframe>
+    </div>
+</div>
+
+{{ end }}

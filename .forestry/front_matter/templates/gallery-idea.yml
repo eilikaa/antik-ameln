@@ -1,0 +1,43 @@
+---
+label: Rundgang
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Titel
+- name: hint
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Hinweis
+- name: gallery_entry
+  type: field_group_list
+  fields:
+  - name: bild
+    type: file
+    config:
+      maxSize: 64
+    label: Bild
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Titel
+  - name: description
+    type: text
+    config:
+      required: false
+    label: Beschreibung
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Eintrag
+pages:
+- content/rundgang.md

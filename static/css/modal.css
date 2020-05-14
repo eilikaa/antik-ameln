@@ -1,0 +1,9 @@
+.modal-content{
+    background-color: black;
+}
+.modal-header {
+    border-bottom: 1px solid #5d5044;
+}
+.modal-footer {
+    border-top: 1px solid #5d5044;
+}

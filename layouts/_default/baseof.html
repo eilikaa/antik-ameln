@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
+    <meta name="REVISIT-AFTER" content="1 DAYS">
+    <meta name="RATING" content="GENERAL">
+    {{partial "meta" . }}
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    <!-- Evtl. wegnehmen -->
+    <link rel="stylesheet" href="https://necolas.github.io/normalize.css/8.0.1/normalize.css">
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+    <!-- Custom Stylesheet-->
+    <link rel="stylesheet" href="/css/custom.css">
+
+</head>
+
+<body>
+
+    <div class="container">
+        {{partial "header" . }}
+
+        <div class="row">
+
+            <div class="col-md-3">
+
+                {{partial "navbar" . }}
+            </div>
+            <div class="col-md-9">
+                {{ block "main" . }}
+                <!-- The part of the page that begins to differ between templates -->
+                {{ end }}
+            </div>
+
+
+        </div>
+        {{ partial "footer"}}
+    </div>
+    <br>
+
+</body>
+
+
+</html>

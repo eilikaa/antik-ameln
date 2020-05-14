@@ -1,0 +1,22 @@
+baseURL = "http://example.org/"
+languageCode = "de-de"
+title = "Antik Ameln"
+assetDir = "/static/"
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+disablePathToLower = true
+
+[[module.mounts]]
+source = "static"
+target = "assets"
+
+[[menu.mainmenu]]
+name = "references"
+title = "Referenzen"
+weight = 8
+[params]
+[params.meta]
+author = "Antik-Ameln"
+description = "Antik, Ameln, Möbel, Koblenz, Ehrenbreitstein, Antiquitäten, Restaurierung, Werkstatt, Schreinerwerkstatt, Holzwerkstatt, Möbel original, Möbel funktional, biologische Oberflächen, Klimakammer, Holzwurmbehandlung, Abbeizen rationell, Abbeizen schonend"
+title = "Antiquitäten Ameln Koblenz Ehrenbreitstein"
+keywords = "Antik, Ameln, Möbel, Koblenz, Ehrenbreitstein, Antiquitäten, Restaurierung, Werkstatt,Möbel original, Möbel funktional, biologische Oberflächen, Klimakammer, Holzwerkstatt, Schreinerwerkstatt,Holzwurmbehandlung, Abbeizen rationell, Abbeizen schonend"
+copyright = "Antik Ameln 2008"
