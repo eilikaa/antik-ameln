@@ -39,5 +39,7 @@ fields:
     max: 
     labelField: 
   label: Eintrag
+  description: Hier finden Sie alle Einträge (also Bilder und die zugehörigen Texte)
+    welche auf der Rundgang-Seite angezeigt werden.
 pages:
 - content/rundgang.md
