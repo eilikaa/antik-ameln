@@ -2,7 +2,7 @@
 
 <div>
     <h1>Hinweis</h1>
-    <p>{{ .Param "hint" }}</p>
+    <p>{{ .RenderString (.Param "hint") }}</p>
 </div>
 
 <h1>{{ .Title }}</h1>
