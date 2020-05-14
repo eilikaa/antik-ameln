@@ -1,12 +1,13 @@
 ---
 title: Seit mehr als 30 Jahren in Ehrenbreitstein
+meta:
+  title: Antiquitäten Ameln Koblenz Ehrenbreitstein
 menu:
   mainmenu:
     name: aboutUs
     title: Über uns
     weight: 3
-meta:
-  title: Antiquitäten Ameln Koblenz Ehrenbreitstein
+
 ---
 ![](/img/PIC00091.jpg)
 
@@ -20,20 +21,20 @@ meta:
 
 **Dann sind Sie bei uns richtig! Qualität seit 1987.**
 
-* Wir haben eine reichhaltige Auswahl an **Edel- und Weichholzmöbeln**
+* Wir haben eine reichhaltige Auswahl an [**Edel- und Weichholzmöbeln**](/rundgang/)
 * Wir haben eine Restaurierungswerkstatt
 * Wir entfernen alte Farben umweltschonend von Ihren Möbeln
 * Wir sind Händler für [**BioPin**](http://www.biopin.de/) Produkte
 * Wir behandeln Ihre Möbel in unserer Entwesungsanlage gegen Holzschädlinge
 
-Gerne nehmen wir Sie mit auf einen **Rundgang** durch unsere Geschäft.
+Gerne nehmen wir Sie mit auf einen [**Rundgang**](/rundgang/) durch unsere Geschäft.
 
 ### WIR BIETEN IHNEN
 
-* Restaurierungswerkstatt / Holzwerkstatt (**mehr..**)
+* Restaurierungswerkstatt / Holzwerkstatt [(**mehr..**)](/überuns/restaurierungenholzwerkstatt/)
 * antike Möbel original / funktional
 * biologische Oberflächen
-* Klimakammer zur schadstoffreien Holzwurmbehandlung (**mehr..**)
+* Klimakammer zur schadstoffreien Holzwurmbehandlung [(**mehr..**)]()
 * Abbeizen / Ablaugen rationell und schonend in unserem Laugebad
 * Lieferung weltweit
 
