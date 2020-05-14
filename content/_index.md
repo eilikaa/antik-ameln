@@ -34,7 +34,7 @@ Gerne nehmen wir Sie mit auf einen [**Rundgang**](/rundgang/) durch unsere Gesch
 * Restaurierungswerkstatt / Holzwerkstatt [(**mehr..**)](/überuns/restaurierungenholzwerkstatt/)
 * antike Möbel original / funktional
 * biologische Oberflächen
-* Klimakammer zur schadstoffreien Holzwurmbehandlung [(**mehr..**)]()
+* Klimakammer zur schadstoffreien Holzwurmbehandlung [(**mehr..**)](/überuns/holzschädlinge/)
 * Abbeizen / Ablaugen rationell und schonend in unserem Laugebad
 * Lieferung weltweit
 
