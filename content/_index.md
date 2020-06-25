@@ -1,5 +1,5 @@
 ---
-title: Seit mehr als 30 Jahren in Ehrenbreitstein
+title: 'Seit mehr als 30 Jahren in Ehrenbreitstein '
 meta:
   title: Antiquitäten Ameln Koblenz Ehrenbreitstein
 menu:
@@ -46,6 +46,8 @@ Fax 0261 - 702567
 Email [antik.ameln@t-online.de](mailto:antik.ameln@t-online.de)
 
 Öffnungszeiten:
+
+Wir haben wieder geöffnet.
 
 Donnerstag - Freitag 13.00 - 18.00 Uhr  
 Samstag 12.00 - 16.00 Uhr  
