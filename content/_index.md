@@ -41,11 +41,15 @@ Gerne nehmen wir Sie mit auf einen [**Rundgang**](/rundgang/) durch unsere Gesch
 Antik Ameln  
 Vor dem Sauerwassertor 7  
 56077 Koblenz - Ehrenbreitstein  
-Tel. 0261 - 702566  
+Tel. 0261 - 702566
+
+Telefon Werkstatt 
+
+0261 - 702567  
   
 Email [antik.ameln@t-online.de](mailto:antik.ameln@t-online.de)
 
-Öffnungszeiten:
+Öffnungszeiten: zur Zeit geschlossen
 
 Aufgrund der Pandemielage öffen wir für Sie 
 
