@@ -36,7 +36,7 @@ Gerne nehmen wir Sie mit auf einen [**Rundgang**](/rundgang/) durch unsere Gesch
 * biologische Oberflächen
 * Klimakammer zur schadstoffreien Holzwurmbehandlung [(**mehr..**)](/überuns/holzschädlinge/)
 * Abbeizen / Ablaugen rationell und schonend in unserem Laugebad
-* Lieferung weltweit
+* Lieferung weltweit 
 
 Antik Ameln  
 Vor dem Sauerwassertor 7  
