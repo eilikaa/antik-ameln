@@ -3,12 +3,15 @@ gallery = []
 hint = "Sollten Sie in unserem Rundgang nicht fündig werden, rufen Sie uns an oder senden uns eine Email. Wir haben auf unserem Lager eine reiche Auswahl an unrestaurierten Möbeln, die wir gerne nach Ihren Wünschen aufarbeiten"
 title = "Rundgang"
 type = "special/rundgang"
-[meta]
-title = "Rundgang durch Antiquitäten Ameln"
-
 [menu.mainmenu]
 title = "rundgang"
 weight = 5
+[meta]
+title = "Rundgang durch Antiquitäten Ameln"
+[[gallery_entry]]
+bild = "/img/schrankchen.JPG"
+description = ""
+title = "Bei uns gekauftes Schränkchen, Biedermeier, restauriert und geölt im Einsatz"
 [[gallery_entry]]
 bild = "/img/rundgang/P1070817.jpg"
 description = "  Diese wunderschöne Baroktruhe wurde nach Frankfurt geliefert "
