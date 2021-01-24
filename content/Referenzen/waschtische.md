@@ -10,7 +10,7 @@ title = "Antik-Ameln > Waschtische"
 +++
 ![](/img/Waschtisch%20(600%20x%20450).jpg.jpg)
 
-Umbau eines Gründerzeitisches
+Umbau eines Gründerzeitisches   
 
 ![](/img/DSC_0212.jpg)
 
