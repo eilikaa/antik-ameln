@@ -12,9 +12,7 @@ title = "Antik-Ameln > Waschtische"
 
 Umbau eines Gründerzeitisches
 
-![](/img/DSC_0212.jpg)
-
-![](/img/DSC_0211.jpg)
+![](/img/DSC_0212.jpg)![](/img/waschtisch.JPG)![](/img/DSC_0211.jpg)
 
 und hier ein Artdeko - Tisch
 
@@ -26,4 +24,8 @@ und hier ein Artdeko - Tisch
 
 Gründerzeitkommode als Waschtisch
 
-![](/img/20170421_111349.jpg)![](/img/20170421_112006.jpg)
+![](/img/20170421_111349.jpg)/img/waschtisch.JPG
+
+Umbau eines Schränkchens zum Waschtisch
+
+![](/img/waschtisch.JPG)
