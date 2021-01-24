@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Waschtische"
 [menu.mainmenu]
 parent = "references"
@@ -13,7 +12,7 @@ title = "Antik-Ameln > Waschtische"
 
 Umbau eines Gründerzeitisches
 
-![](/img/DSC_0212.jpg)![](/img/waschtisch.JPG)![](/img/DSC_0211.jpg)
+![](/img/DSC_0212.jpg)![](/img/waschtisch.JPG)
 
 und hier ein Artdeko - Tisch
 
