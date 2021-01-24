@@ -12,7 +12,7 @@ title = "Antik-Ameln > Waschtische"
 
 Umbau eines Gründerzeitisches
 
-![](/img/DSC_0212.jpg)![](/img/waschtisch.JPG)
+![](/img/DSC_0212.jpg)
 
 und hier ein Artdeko - Tisch
 
