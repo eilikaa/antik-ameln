@@ -23,3 +23,9 @@ und hier ein Artdeko - Tisch
 ![](/img/IMG_20140128_114657.jpg)
 
 Gründerzeitkommode als Waschtisch
+
+![](/img/20170421_111349.jpg)
+
+Umbau eines Schränkchens als Waschtisch
+
+![](/img/waschtisch.JPG)
