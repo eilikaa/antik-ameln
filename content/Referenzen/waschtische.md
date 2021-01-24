@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Waschtische"
 [menu.mainmenu]
 parent = "references"
@@ -24,7 +25,7 @@ und hier ein Artdeko - Tisch
 
 Gründerzeitkommode als Waschtisch
 
-![](/img/20170421_111349.jpg)/img/waschtisch.JPG
+
 
 Umbau eines Schränkchens zum Waschtisch
 
