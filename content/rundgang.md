@@ -10,8 +10,8 @@ weight = 5
 title = "Rundgang durch Antiquitäten Ameln"
 [[gallery_entry]]
 bild = "/img/schrankchen.JPG"
-description = ""
-title = "Bei uns gekauftes Schränkchen, Biedermeier, restauriert und geölt im Einsatz"
+description = "Bei uns gekauftes Schränkchen, Biedermeier, restauriert und geölt im Einsatz"
+title = "Schränkchen, Biedermeier"
 [[gallery_entry]]
 bild = "/img/rundgang/P1070817.jpg"
 description = "  Diese wunderschöne Baroktruhe wurde nach Frankfurt geliefert "
