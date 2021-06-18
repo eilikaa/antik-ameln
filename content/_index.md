@@ -36,25 +36,21 @@ Gerne nehmen wir Sie mit auf einen [**Rundgang**](/rundgang/) durch unsere Gesch
 * biologische Oberflächen
 * Klimakammer zur schadstoffreien Holzwurmbehandlung [(**mehr..**)](/überuns/holzschädlinge/)
 * Abbeizen / Ablaugen rationell und schonend in unserem Laugebad
-* Lieferung weltweit 
+* Lieferung weltweit
 
 Antik Ameln  
 Vor dem Sauerwassertor 7  
 56077 Koblenz - Ehrenbreitstein  
 Tel. 0261 - 702566
 
-Telefon Werkstatt 
+Telefon Werkstatt
 
-0261 - 702567  
-  
+0261 - 702567
+
 Email [antik.ameln@t-online.de](mailto:antik.ameln@t-online.de)
 
-Öffnungszeiten: zur Zeit geschlossen
+Öffnungszeiten: 
 
-Aufgrund der Pandemielage öffen wir für Sie 
+Donnerstag und Freitag von 13 bis 18 Uhr
 
-gerne exclusiv nach persönlicher Absprache..
-
-Persönliche Terminvereinbarung unter 
-
-### 01791446882
+Samstags von 12 bis 16 Uhr
