@@ -49,9 +49,7 @@ Telefon Werkstatt
 
 Email [antik.ameln@t-online.de](mailto:antik.ameln@t-online.de)
 
-### **Pandemiebedingt öffne ich gemäß den gesetzlichen Vorgaben bis auf weiteres nur mit persönlicher Terminvereinbarung unter:  01791446882**
-
-\[Öffnungszeiten: 
+\[Öffnungszeiten:
 
 Donnerstag und Freitag von 13 bis 18 Uhr
 
