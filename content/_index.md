@@ -7,7 +7,6 @@ menu:
     name: aboutUs
     title: Über uns
     weight: 3
-draft: true
 
 ---
 ![](/img/PIC00091.jpg)
