@@ -1,13 +1,13 @@
-+++
-title = "Waschtische"
-[menu.mainmenu]
-parent = "references"
-title = "Waschtische"
-weight = 2
-[meta]
-title = "Antik-Ameln > Waschtische"
-
-+++
+---
+title: "Waschtische"
+meta:
+  title: "Antik-Ameln > Waschtische"
+menu:
+  mainmenu:
+    parent: references
+    title: "Waschtische"
+    weight: 2
+---
 ![](/img/Waschtisch%20(600%20x%20450).jpg.jpg)
 
 Umbau eines Gründerzeitisches   

@@ -1,5 +1,5 @@
 ---
-title: 'Seit mehr als 30 Jahren in Ehrenbreitstein '
+title: Seit mehr als 30 Jahren in Ehrenbreitstein
 meta:
   title: Antiquitäten Ameln Koblenz Ehrenbreitstein
 menu:

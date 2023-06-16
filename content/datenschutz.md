@@ -1,12 +1,13 @@
-+++
-title = "Datenschutz"
-[menu.mainmenu]
-title = "Datenschutz"
-weight = 10
-[meta]
-title = "Antiquitäten Ameln Koblenz Ehrenbreitstein"
+---
+title: Datenschutz
+menu:
+  mainmenu:
+    title: Datenschutz
+    weight: 10
+meta:
+  title: Antiquitäten Ameln Koblenz Ehrenbreitstein
 
-+++
+---
 Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:
 
 Antik Ameln

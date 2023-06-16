@@ -12,9 +12,17 @@ title = "Antik-Ameln > Panoram"
 
 #### **Bergezustand**
 
-![](/img/CIMG0010.jpg)![](/img/CIMG0013.jpg)![](/img/CIMG0007.jpg)
+![](/img/CIMG0010.jpg)
 
-![](/img/CIMG0008.jpg)![](/img/CIMG0012.jpg)![](/img/CIMG0025.jpg)
+![](/img/CIMG0013.jpg)
+
+![](/img/CIMG0007.jpg)
+
+![](/img/CIMG0008.jpg)
+
+![](/img/CIMG0012.jpg)
+
+![](/img/CIMG0025.jpg)
 
 **Zustand nach der Restaurierung**
 

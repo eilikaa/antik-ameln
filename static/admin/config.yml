@@ -1,0 +1,110 @@
+backend:
+  name: git-gateway
+  branch: master
+media_folder: "static/img" # Folder where user uploaded files should go
+public_folder: "static/img"
+collections:
+  -   name: "pages"
+      label: "Seitenübersicht"
+      files:
+      - file: "content/_index.md"
+        label: "Startseite"
+        name: "home"
+        editor:
+          preview: false
+        fields:
+          - { label: "Titel", name: "title", widget: "string" }
+          - { label: "Seiteninhalt", name: "body", widget: "markdown" }
+          
+      - file: "content/datenschutz.md"
+        label: "Datenschutz"
+        name: "datenschutz"
+        editor: 
+          preview: false
+        fields:
+          - { label: "Titel", name: "title", widget: "string" }
+          - { label: "Seiteninhalt", name: "body", widget: "markdown" } 
+      - file: "content/kontakt.md"
+        label: "Kontakt"
+        name: "kontakt"
+        editor: 
+          preview: false
+        fields:
+          - { label: "Titel", name: "title", widget: "string" }
+          - { label: "Seiteninhalt", name: "body", widget: "markdown" }
+      - file: "content/impressum.md"
+        label: "Impressum"
+        name: "Impressum"
+        editor: 
+          preview: false
+        fields:
+          - { label: "Titel", name: "title", widget: "string" }
+          - { label: "Seiteninhalt", name: "body", widget: "markdown" }
+      - file: "content/links.md"
+        label: "Links"
+        name: "links"
+        editor: 
+          preview: false
+        fields:
+          - { label: "Titel", name: "title", widget: "string" }
+          - { label: "Seiteninhalt", name: "body", widget: "markdown" }
+      - file: "content/rundgang.md"
+        label: "Rundgang"
+        name: "rundgang"
+        editor: 
+          preview: false
+        fields:
+          - { label: "Titel", name: "title", widget: "string" }
+          - label: "Gallery"
+            name: "gallery_entry" 
+            widget: "list" 
+            summary: '{{fields.title}}' 
+            fields:
+             - { label: "Titel", name: "title", widget: "string" } 
+             - { label: "Bild", name: "bild", widget: "image" }
+             - { label: "Beschreibung", name: "description", widget: "string" }
+      - file: "content/Referenzen/waschtische.md"
+        label: "Waschtische"
+        name: "waschtische"
+        editor: 
+          preview: false
+        fields:
+          - { label: "Titel", name: "title", widget: "string" }
+          - { label: "Seiteninhalt", name: "body", widget: "markdown" } 
+      - file: "content/Referenzen/eichebalkenbett.md"
+        label: "Eichebalkenbett"
+        name: "eichebalkenbett"
+        editor: 
+          preview: false
+        fields:
+          - { label: "Titel", name: "title", widget: "string" }
+          - { label: "Seiteninhalt", name: "body", widget: "markdown" } 
+      - file: "content/Referenzen/panoram.md"
+        label: "Panoram"
+        name: "panoram"
+        editor: 
+          preview: false
+        fields:
+          - { label: "Titel", name: "title", widget: "string" }
+          - { label: "Seiteninhalt", name: "body", widget: "markdown" } 
+      - file: "content/ÜberUns/Holzschädlinge.md"
+        label: "Holzschädlinge"
+        name: "holzschädlinge"
+        editor: 
+          preview: false
+        fields:
+          - { label: "Titel", name: "title", widget: "string" }
+          - { label: "Seiteninhalt", name: "body", widget: "markdown" }
+      - file: "content/ÜberUns/RestaurierungenHolzwerkstatt.md"
+        label: "RestaurierungenHolzwerkstatt"
+        name: "restaurierungenHolzwerkstatt"
+        editor: 
+          preview: false
+        fields:
+          - { label: "Titel", name: "title", widget: "string" }
+          - { label: "Seiteninhalt", name: "body", widget: "markdown" }    
+                       
+          
+                            
+      
+          
