@@ -52,4 +52,6 @@ Email [antik.ameln@t-online.de](mailto:antik.ameln@t-online.de)
 
 Donnerstag und Freitag von 13 bis 18 Uhr
 
-Samstags von 12 bis 15 Uhr]
+Samstags von 12 bis 15 Uhr
+
+und nach Vereinbarung]
