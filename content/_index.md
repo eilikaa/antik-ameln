@@ -8,7 +8,7 @@ menu:
     title: Über uns
     weight: 3
 ---
-![](/img/PIC00091.jpg)
+{{< sale-photo src="/img/PIC00091.jpg" alt="Geschäftshaus von Antik Ameln" >}}
 
 # WILLKOMMEN BEI UNS
 
@@ -48,10 +48,7 @@ Telefon Werkstatt
 
 Email [antik.ameln@t-online.de](mailto:antik.ameln@t-online.de)
 
-[Öffnungszeiten:
+## ÖFFNUNGSZEITEN
 
-Donnerstag und Freitag von 13 bis 18 Uhr
-
-Samstags von 12 bis 15 Uhr
-
-und nach Vereinbarung]
+Donnerstags und Freitags von 13 Uhr bis 18 Uhr  
+Samstags von 12 Uhr bis 15 Uhr
